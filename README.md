@@ -10,7 +10,7 @@
 ```
 3. then activate the virtual environment
 ```
-   .\myenv\Scripts\activate>
+   .\myenv\Scripts\activate
 ```
 4. install requirements.txt using
 ```
